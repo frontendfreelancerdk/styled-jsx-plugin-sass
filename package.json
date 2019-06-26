@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/giuseppeg/styled-jsx-plugin-sass#readme",
   "peerDependencies": {
-    "node-sass": "*"
+    "sass": "*"
   },
   "devDependencies": {
     "mocha": "^4.0.1",
